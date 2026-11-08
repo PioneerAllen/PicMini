@@ -120,9 +120,9 @@ PicMini 保留简单的看图界面，把常用操作放在手边。打开图片
 如果 PicMini 刚好对你有帮助，愿意的话可以随缘赞助一杯咖啡；不赞助也完全不影响使用，感谢每一个使用和反馈。
 
 <p align="center">
-  <img src="微信收款码.png" alt="微信收款码" width="150">
+  <img src="images/微信收款码.png" alt="微信收款码" width="300">
   &nbsp;
-  <img src="支付宝收款码.jpg" alt="支付宝收款码" width="150">
+  <img src="images/支付宝收款码.jpg" alt="支付宝收款码" width="300">
 </p>
 
 <p align="center"><sub>微信收款码 · 支付宝收款码</sub></p>
